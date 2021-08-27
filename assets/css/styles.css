@@ -387,11 +387,11 @@ a.dotted-link:hover {
 }
 
 .experience .itemh .title .place a:hover {
-  color: #666666;
+  color: rgb(194, 194, 194);
 }
 
 .experience .itemh .title .year {
-  color: #999;
+  color: rgb(194, 194, 194);
   font-weight: normal;
 }
 
