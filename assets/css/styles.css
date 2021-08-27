@@ -364,6 +364,36 @@ a.dotted-link:hover {
   font-weight: normal;
 }
 
+.experience .itemH {
+  margin-bottom: 30px;
+  background-color: #3aaa657c;
+}
+
+.experience .itemH .title {
+  font-size: 16px;
+  margin-top: 0;
+  margin-bottom: 5px;
+  line-height: 1.5;
+}
+
+.experience .itemH .title .place {
+  color: #999;
+  font-weight: normal;
+}
+
+.experience .itemH .title .place a {
+  color: #999;
+}
+
+.experience .itemH .title .place a:hover {
+  color: #666666;
+}
+
+.experience .itemH .title .year {
+  color: #999;
+  font-weight: normal;
+}
+
 /* Git section */
 .github-graph {
   margin-bottom: 30px;
