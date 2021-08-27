@@ -366,8 +366,8 @@ a.dotted-link:hover {
 
 .experience .itemh {
   margin-bottom: 30px;
-  background-color: rgba(149, 166, 206, 0.5);
-  border-color: rgba(131, 146, 180, 0.5);
+  background-color: rgba(147, 166, 209, 0.3);
+  border-color: rgba(147, 166, 209, 0.3);
 }
 
 .experience .itemh .title {
@@ -378,12 +378,12 @@ a.dotted-link:hover {
 }
 
 .experience .itemh .title .place {
-  color: #999;
+  color: rgb(194, 194, 194);
   font-weight: normal;
 }
 
 .experience .itemh .title .place a {
-  color: #999;
+  color: rgb(194, 194, 194);
 }
 
 .experience .itemh .title .place a:hover {
