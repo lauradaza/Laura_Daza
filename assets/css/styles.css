@@ -366,8 +366,8 @@ a.dotted-link:hover {
 
 .experience .itemh {
   margin-bottom: 30px;
-  background-color: #47bd7469;
-  border-color: #47bd7469;
+  background-color: rgba(131, 146, 163, 0.5);
+  border-color: rgba(131, 146, 163, 0.5);
 }
 
 .experience .itemh .title {
