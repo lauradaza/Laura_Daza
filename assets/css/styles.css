@@ -365,20 +365,23 @@ a.dotted-link:hover {
 }
 
 .experience .itemh {
-  margin-bottom: 30px;
+  margin-top: 5px;
+  margin-bottom: 35px;
+  margin-left: -5px;
+  margin-right: 5px;
   background-color: rgba(147, 166, 209, 0.3);
   border-color: rgba(147, 166, 209, 0.3);
 }
 
 .experience .itemh .title {
   font-size: 16px;
-  margin-top: 0;
+  margin-top: 5;
   margin-bottom: 5px;
   line-height: 1.5;
 }
 
 .experience .itemh .title .place {
-  color: rgb(194, 194, 194);
+  color: rgb(255, 255, 255);
   font-weight: normal;
 }
 
